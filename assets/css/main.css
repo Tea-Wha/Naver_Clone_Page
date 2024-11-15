@@ -224,7 +224,7 @@ div {
 #header > .header_inner > .menu_area > .btn_menu::after {
   content: " ";
   display: block;
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -311px -166px;
   background-repeat: no-repeat;
@@ -300,7 +300,7 @@ div {
 #header > .header_inner > .pay_area > .link_pay::after {
   content: "";
   display: block;
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -248px -260px;
   background-repeat: no-repeat;
@@ -341,7 +341,7 @@ div {
 #header > .header_inner > .talk_area > .btn_talk::after {
   content: "";
   display: block;
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -99px -316px;
   background-repeat: no-repeat;
@@ -374,7 +374,7 @@ div {
 #header > .header_inner > .notify_area > .btn_notify::after {
   content: "";
   display: block;
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -311px -232px;
   background-repeat: no-repeat;
@@ -405,7 +405,7 @@ div {
 #header > .header_inner > .shopping_area > .link_shopping::after {
   content: "";
   display: block;
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -33px -316px;
   background-repeat: no-repeat;
@@ -579,7 +579,7 @@ div {
 .search_box > .btn_keyboard::before {
   content: "";
   display: block;
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -148px -301px;
   background-repeat: no-repeat;
@@ -587,7 +587,7 @@ div {
   height: 14px;
 }
 .search_box > .btn_keyboard > .keybord_text {
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -152px 0px;
   background-repeat: no-repeat;
@@ -607,7 +607,7 @@ div {
 .search_box > .btn_arrow::before {
   content: "";
   display: block;
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -221px -184px;
   background-repeat: no-repeat;
@@ -671,7 +671,7 @@ div {
   position: absolute;
   top: -1px;
   left: -3px;
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -153px -142px;
   background-repeat: no-repeat;
@@ -685,7 +685,7 @@ div {
   > li
   > a
   > .service_icon.type_mail::after {
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -205px -219px;
   background-repeat: no-repeat;
@@ -721,7 +721,7 @@ div {
   > li
   > a
   > .service_icon.type_cafe::after {
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -41px -219px;
   background-repeat: no-repeat;
@@ -735,7 +735,7 @@ div {
   > li
   > a
   > .service_icon.type_chzzk::after {
-  background-image: url("/images/chzzk.png");
+  background-image: url("./images/chzzk.png");
   background-size: 40px 40px;
   background-position: 0px 0px;
   background-repeat: no-repeat;
@@ -749,7 +749,7 @@ div {
   > li
   > a
   > .service_icon.type_more::after {
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -270px -164px;
   background-repeat: no-repeat;
@@ -763,7 +763,7 @@ div {
   > li
   > a
   > .service_icon.type_blog:after {
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: 0px -219px;
   background-repeat: no-repeat;
@@ -777,7 +777,7 @@ div {
   > li
   > a
   > .service_icon.type_shopping:after {
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -41px -260px;
   background-repeat: no-repeat;
@@ -791,7 +791,7 @@ div {
   > li
   > a
   > .service_icon.type_news:after {
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -270px -205px;
   background-repeat: no-repeat;
@@ -805,7 +805,7 @@ div {
   > li
   > a
   > .service_icon.type_stock:after {
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -123px -260px;
   background-repeat: no-repeat;
@@ -819,7 +819,7 @@ div {
   > li
   > a
   > .service_icon.type_real:after {
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: 0px -260px;
   background-repeat: no-repeat;
@@ -833,7 +833,7 @@ div {
   > li
   > a
   > .service_icon.type_map:after {
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -270px 0px;
   background-repeat: no-repeat;
@@ -847,7 +847,7 @@ div {
   > li
   > a
   > .service_icon.type_webtoon:after {
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -164px -260px;
   background-repeat: no-repeat;
@@ -867,7 +867,7 @@ div {
   vertical-align: top;
 }
 #ad_timeboard_tgt-ex {
-  background-image: url("/images/a7f72cc6abf1fb27ce62_20241029114428210_1.png");
+  background-image: url("./images/a7f72cc6abf1fb27ce62_20241029114428210_1.png");
   background-size: 976px 130px;
   background-position: 0 0;
   background-repeat: no-repeat;
@@ -1032,7 +1032,7 @@ div {
 .Header_tag_live::before {
   content: "";
   display: inline-block;
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -358px -301px;
   background-repeat: no-repeat;
@@ -1082,7 +1082,7 @@ div {
   font-size: 1rem;
 }
 .HeaderSubView-module_btn_more > .HeaderSubView-module_icon_triangle {
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -242px -184px;
   background-repeat: no-repeat;
@@ -1350,7 +1350,7 @@ div {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -452px -104px;
   background-repeat: no-repeat;
@@ -1383,7 +1383,7 @@ div {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -452px -104px;
   background-repeat: no-repeat;
@@ -1580,7 +1580,7 @@ div {
   > .module_link_whs_type_chzzk::after {
   content: "";
   display: block;
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -217px -193px;
   background-repeat: no-repeat;
@@ -2045,7 +2045,7 @@ div {
   > .my_login
   > .link_login
   > .naver_logo {
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: 0px -301px;
   background-repeat: no-repeat;
@@ -2112,19 +2112,19 @@ div {
   clear: both;
 }
 #ad_timeboard {
-  background-image: url("/images/4dafc2158f1aa78ee9c7_20241106175522020.jpg");
+  background-image: url("./images/4dafc2158f1aa78ee9c7_20241106175522020.jpg");
   background-size: 830px 130px;
   background-position: 0 0;
   background-repeat: no-repeat;
 }
 #right-ad-1_tgt {
-  background-image: url("/images/4925ec9d84705cb61366_20241022154810492.jpg");
+  background-image: url("./images/4925ec9d84705cb61366_20241022154810492.jpg");
   background-size: 420px 240px;
   background-position: 0 0;
   background-repeat: no-repeat;
 }
 #right-ad-2_tgt {
-  background-image: url("/images/803990574d2510356580_20241007102644878.jpg");
+  background-image: url("./images/803990574d2510356580_20241007102644878.jpg");
   background-size: 420px 240px;
   background-position: 0 0;
   background-repeat: no-repeat;
@@ -2244,7 +2244,7 @@ div {
   > .module_weather_icon::before {
   content: "";
   display: block;
-  background-image: url("/images/sp_weather.11654bc0.png");
+  background-image: url("./images/sp_weather.11654bc0.png");
   background-size: 641px 587px;
   background-position: 0 0;
   background-repeat: no-repeat;
@@ -2457,7 +2457,7 @@ div {
   > .module_icon::before {
   content: "";
   display: block;
-  background-image: url("/images/sp_weather.11654bc0.png");
+  background-image: url("./images/sp_weather.11654bc0.png");
   background-size: 641px 587px;
   background-position: 0 -522px;
   background-repeat: no-repeat;
@@ -2516,7 +2516,7 @@ div {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -243px -316px;
   background-repeat: no-repeat;
@@ -2578,7 +2578,7 @@ div {
   > .module_btn_refresh::before {
   content: " ";
   display: block;
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -204px -142px;
   background-repeat: no-repeat;
@@ -2723,7 +2723,7 @@ div {
   position: absolute;
   top: 3px;
   left: 0;
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -26px -428px;
   background-repeat: no-repeat;
@@ -2850,7 +2850,7 @@ div {
   > .module_link_stock
   > .module_stock_price
   > .module_icon_status {
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -26px -428px;
   background-repeat: no-repeat;
@@ -2880,7 +2880,7 @@ div {
   display: block;
   position: relative;
   margin-top: 5px;
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -452px -143px;
   background-repeat: no-repeat;
@@ -3042,7 +3042,7 @@ div {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -200px -332px;
   background-repeat: no-repeat;
@@ -3382,7 +3382,7 @@ div {
   padding: 12px 18px 0;
 }
 .module_vibe_box > .module_vibe_top > .module_icon_vibe {
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -311px -17px;
   background-repeat: no-repeat;
@@ -3419,7 +3419,7 @@ div {
 .module_vibe_box > .module_vibe_top > .module_vibe_btn_refresh::after {
   content: "";
   display: inline-block;
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -251px -332px;
   background-repeat: no-repeat;
@@ -3543,7 +3543,7 @@ div {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -452px -388px;
   background-repeat: no-repeat;
@@ -3565,7 +3565,7 @@ div {
 .module_link_download::before {
   content: "";
   display: inline-block;
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -112px -376px;
   background-repeat: no-repeat;
@@ -3577,7 +3577,7 @@ div {
   font-weight: bold;
 }
 .module_link_download::after {
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -452px -284px;
   background-repeat: no-repeat;
@@ -3613,7 +3613,7 @@ div {
   margin-left: 12px;
 }
 .Layer_setting > .module_btn_setting_type_top::before {
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -203px -89px;
   background-repeat: no-repeat;
@@ -3631,7 +3631,7 @@ div {
   margin: auto;
 }
 .Layer_setting > .module_btn_setting_type_system::before {
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -431px -388px;
   background-repeat: no-repeat;
@@ -3692,7 +3692,7 @@ div {
 #footer > .footer_inner > .notice_area > .link_all::after {
   content: "";
   display: inline-block;
-  background-image: url("/images/sp_main.b27083b1.png");
+  background-image: url("./images/sp_main.b27083b1.png");
   background-size: 463px 440px;
   background-position: -452px -258px;
   background-repeat: no-repeat;
